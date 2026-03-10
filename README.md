@@ -1,6 +1,6 @@
-# Matt Smith
+# DJ Cistola
 
-### US Army Operations Research Officer
+### US Army Operations Research Student
 
 **Interested In:** Data Analysis, AI/ML, Data Visualization, Computer Vision, Decision Support Tools
 
