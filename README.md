@@ -1,10 +1,10 @@
 # DJ Cistola
 
-### US Army Operations Research Student
+### US Navy Operations Research Student
 
 **Interested In:** Data Analysis, AI/ML, Data Visualization, Computer Vision, Decision Support Tools
 
-**Skills:** Python Data Analysis Ecosystem, Web Dashboards, HPC, Leading Data Science Teams 
+**Skills:** Python Data Analysis Ecosystem
 
 ## Contact Me
 - **Email:** daniel.a.cistola.jr@gmail.com
