@@ -7,20 +7,19 @@
 **Skills:** Python Data Analysis Ecosystem, Web Dashboards, HPC, Leading Data Science Teams 
 
 ## Contact Me
-- **Email:** mdsmith44@gmail.com
-- **Phone:** 617-899-7936
-- **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
+- **Email:** daniel.a.cistola.jr@gmail.com
+- **Phone:** 843-530-6984
 
 ## Education
 - MS, Operations Research | Naval Postgraduate School (_2027_)
-- BS, Underwater Basketweaving | School (_year_)
+- BA, Physics | Georgia Southern University (_2014_)
 
 ## Work Experience
-**Assistant Professor**           
+**Naval Officer**           
 Naval Postgraduate School     
-(_June 2023 - present_)
-- Military faculty for the Data Analytics curriculum within the Operations Research department. Teaching courses focused on Computational Methods for Data Analytics, Statistical and Machine Learning, and Capstone Projects in Applied Defense Analytics.
-- Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
+(_Oct 2016 - present_)
+- Leads Sailors in the repair of aircraft and aviation components. 
+- Taught at Naval Nuclear Power Training Command (_2016-2020_)
 
 ## Projects
 
