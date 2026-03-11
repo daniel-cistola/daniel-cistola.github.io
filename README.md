@@ -24,6 +24,6 @@ Naval Postgraduate School
 ## Projects
 
 ### Streamlit App for Generating QR Codes
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
+[Git Repo](https://github.com/daniel-cistola/py_qrcode_1)
 
 Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
